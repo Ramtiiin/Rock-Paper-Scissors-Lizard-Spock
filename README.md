@@ -7,15 +7,15 @@ Sam Kass explains he created the expanded game because it seemed like most games
 Rock Paper Scissors Lizard Spock was first mentioned in the Big Bang Theory Series, Season 2 episode "The Lizard-Spock Expansion", the title of which references the game.
 
 As Sheldon explains:
-Scissors cuts Paper\n
-Paper covers Rock\n
-Rock crushes Lizard
-Lizard poisons Spock
-Spock smashes Scissors
-Scissors decapitates Lizard
-Lizard eats Paper
-Paper disproves Spock
-Spock vaporizes Rock
+Scissors cuts Paper, 
+Paper covers Rock, 
+Rock crushes Lizard, 
+Lizard poisons Spock, 
+Spock smashes Scissors, 
+Scissors decapitates Lizard, 
+Lizard eats Paper, 
+Paper disproves Spock, 
+Spock vaporizes Rock, 
 and as it always has, Rock crushes Scissors.
 
 
